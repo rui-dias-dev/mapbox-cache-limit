@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Local": "São Paulo",
+          "Type": "City"
+        },
+        "geometry": {
+          "coordinates": [
+            -46.63338205529496,
+            -23.55065089229815
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Local": "Itajaí",
+          "Type": "City"
+        },
+        "geometry": {
+          "coordinates": [
+            -48.66698492909097,
+            -26.911787525534628
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      }
+    ]
+  }

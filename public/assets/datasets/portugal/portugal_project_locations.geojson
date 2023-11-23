@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "FINERGE",
+          "ProjectName": "Finerge",
+          "ProjectType": "BikeSharing"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.68076847712183,
+            41.17774097463021
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "BIKE_AFURADA",
+          "Distric": "Vila nova de Gaia",
+          "ProjectName": "Bike Afurada",
+          "ProjectType": "Bike Sharing"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.64664805686391,
+            41.14287920905187
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "CZarco",
+          "Distric": "Matosinhos",
+          "ProjectName": "Czarco a descarbonizar",
+          "ProjectType": "Sustainable Mobility"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.676660312098676,
+            41.178496992228844
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "E-GINGA ANSIAO",
+          "ProjectName": "E-Ginga Ansião",
+          "ProjectType": "Sustainable Mobility"
+        },
+        "geometry": {
+          "coordinates": [
+            -8.436183351001091,
+            39.91155266334741
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "iFOOD SCOOTER",
+          "ProjectName": "iFood Scooter",
+          "ProjectType": "Sustainable Mobility for Services"
+        },
+        "geometry": {
+          "coordinates": [
+            -46.63744958211856,
+            -23.547607772086934
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "MOVITAJAI",
+          "ProjectName": "MovItajaí",
+          "ProjectType": "Sustainable Mobility"
+        },
+        "geometry": {
+          "coordinates": [
+            -48.669182796273475,
+            -26.904055738505086
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Project": "MOBILIDADE CONSCIENTE",
+          "ProjectName": "Mobilidade Consciente",
+          "ProjectType": "Sustainable Mobility"
+        },
+        "geometry": {
+          "coordinates": [
+            -48.68435579128399,
+            -26.929818282501536
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      }
+    ]
+  }

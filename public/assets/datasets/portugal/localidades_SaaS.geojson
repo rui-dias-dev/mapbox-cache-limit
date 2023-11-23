@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   
+        {
+            "type": "Feature",
+            "properties": {
+                "Local": "Viana do Castelo",
+                "Type": "City"
+            },
+            "geometry": {
+                "coordinates": [
+                    -8.831087943219899,
+                    41.69486659349022
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        }
+    ]
+}

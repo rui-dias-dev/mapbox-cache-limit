@@ -1,0 +1,66 @@
+{
+  "districts": [
+    {
+      "name": "VianaDoCastelo_Dist.geojson",
+      "selected": true
+    },
+    {
+      "name": "Braga_Dist.geojson",
+      "selected": true
+    },
+    {
+      "name": "VilaReal_Dist.geojson"
+    },
+    {
+      "name": "Bragança_Dist.geojson"
+    },
+    {
+      "name": "Porto_Dist.geojson",
+      "selected": true
+    },
+    {
+      "name": "Aveiro_Dist.geojson",
+      "selected": true
+    },
+    {
+      "name": "Viseu_Dist.geojson"
+    },
+    {
+      "name": "Guarda_Dist.geojson"
+    },
+    {
+      "name": "Coimbra_Dist.geojson"
+    },
+    {
+      "name": "CasteloBranco_Dist.geojson"
+    },
+    {
+      "name": "Leiria_Dist.geojson",
+      "selected": false
+    },
+    {
+      "name": "Santarém_Dist.geojson"
+    },
+    {
+      "name": "Portalegre_Dist.geojson"
+    },
+    {
+      "name": "Lisboa_Dist.geojson"
+    },
+    {
+      "name": "Évora_Dist.geojson"
+    },
+    {
+      "name": "Setúbal_Dist.geojson"
+    },
+    {
+      "name": "Beja_Dist.geojson"
+    },
+    {
+      "name": "Faro_Dist.geojson"
+    }
+  ],
+  "country": "Portugal.geojson",
+  "locations": "portugal_project_locations.geojson"
+  
+}

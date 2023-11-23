@@ -1,0 +1,110 @@
+{
+  "states": [
+    {
+      "name": "Acre_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Alagoas_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Amapa_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Amazonas_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Bahia_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Ceara_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "EspiritoSanto_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Goias_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Maranhao_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "MatoGrossoDoSul_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "MatoGrosso_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "MinasGerais_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Paraiba_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Parana_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Para_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Pernambuco_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Piaui_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "RioDeJaneiro_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "RioGrandeDoNorte_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "RioGrandeDoSul_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Rondonia_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Roraima_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "SantaCatarina_Est.geojson",
+      "selected": true
+    },
+    {
+      "name": "SaoPaulo_Est.geojson",
+      "selected": true
+    },
+    {
+      "name": "Sergipe_Est.geojson",
+      "selected": false
+    },
+    {
+      "name": "Tocantins_Est.geojson",
+      "selected": false
+    }
+  ],
+  "country": "Brasil.geojson",
+  "locations": "localidades_br_SaaS.geojson"
+}

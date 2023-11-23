@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="18.103" viewBox="0 0 24 18.103">
+  <g id="Icon_feather-eye-off" data-name="Icon feather-eye-off" transform="translate(1 1)">
+    <path id="Path_35" data-name="Path 35" d="M18.44,20.03A10.029,10.029,0,0,1,12.5,22.1c-7,0-11-8.052-11-8.052A18.538,18.538,0,0,1,6.56,8.073m0,0A10.824,10.824,0,0,1,12.5,6c7,0,11,8.052,11,8.052a28.723,28.723,0,0,1-5.06,5.978m-3.82-3.845a2.993,2.993,0,0,1-5.1-1.311,3.032,3.032,0,0,1,.862-2.956" transform="translate(-1.5 -6)" fill="none" stroke="#b1abab" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Ellipse_348" data-name="Ellipse 348" transform="translate(7 4.051)" fill="none" stroke="#b1abab" stroke-width="2">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3" fill="none"/>
+    </g>
+  </g>
+</svg>
